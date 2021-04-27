@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on game projects and algorithm devising.
 - 📫 How to reach me 
 
-Check out https://2ccs.co/ for my company's website!
+Check out https://2ccs.co/ and browse the official 2CCs website!
 
 <!---
 YerBoySisi/YerBoySisi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
